@@ -7,6 +7,5 @@ func add(x, y int, z string) (int, string) {
 }
 func main() {
 	fmt.Println(add(34, 67, "h"))
-	fmt.Println(add(34, 67, "h"))
 
 }
